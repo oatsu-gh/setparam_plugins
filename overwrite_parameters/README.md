@@ -11,6 +11,10 @@ wavファイル名とエイリアスをそのままに、各種原音設定値�
 3. 新しく設定したい各種数値を入力（5回）してエンターキーを押す。
 4. overwrite_parameters.exe の隣に oto_result.ini が出力されます。
 
+## 配布
+
+Bowlrollでexe版を配布しています。https://bowlroll.net/file/240931
+
 ## 連絡先
 
-CrazY (https://twitter.com/crazy_toho)
+CrazY (@crazy_toho)
